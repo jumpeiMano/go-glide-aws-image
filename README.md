@@ -1,0 +1,1 @@
+# go-glide-aws-image
